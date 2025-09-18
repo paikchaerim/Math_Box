@@ -5,3 +5,10 @@ def add(a, b):
 
 def subtract(a, b):
     return(a-b)
+
+
+def multiiply(a, b):
+    return a*b
+
+def dvide(a, b):
+    return a/b
