@@ -10,5 +10,5 @@ def subtract(a, b):
 def multiiply(a, b):
     return a*b
 
-def dvide(a, b):
+def dvide_premium(a, b):
     return a/b
