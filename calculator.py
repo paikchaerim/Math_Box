@@ -6,9 +6,8 @@ def add(a, b):
 def subtract(a, b):
     return(a-b)
 
-
-def multiiply(a, b):
+def multiply(a, b):
     return a*b
 
-def dvide_premium(a, b):
+def devide_new(a, b):
     return a/b
